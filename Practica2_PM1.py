@@ -112,16 +112,16 @@ def menu():
         if n == '':
             n = 3
             print("El número de discos por defecto es:", n)
-            confirmacion = input("¿Esta de acuerdo? s/n: ")
-            if confirmacion == "s":
+            confirmacion = input("¿Desea cambiar el número de discos? s/n: ")
+            if confirmacion == "n":
                 r = True
         elif es_numero(n) != True:
             print("Error: Ingrese un número entero entre 3 y 10")
         else:
             if 2 < int(n) < 11:
                 print("El número de discos es: ", n)
-                confirmacion = input("¿Está de acuerdo? s / n: ")
-                if confirmacion == "s":
+                confirmacion = input("¿Desea cambiar el número de discos? s/n: ")
+                if confirmacion == "n":
                     r = True
             else:
                 print("Fuera de limite: ingrese un número entero entre 3 y 10")
