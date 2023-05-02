@@ -1,0 +1,3 @@
+This is an example of encryption:
+1. Caesar
+2. by Substitution
