@@ -1,0 +1,67 @@
+Ahorcado (juego)
+El ahorcado (tambien llamado colgado) es un juego de lapiz y papel para dos o mas jugadores. Un jugador piensa en una palabra, frase u oracion y el otro trata de adivinarla segun lo que sugiere por letras o dentro de un cierto numero de oportunidades.
+Descripcion general
+Usando una fila de guiones, se representa la palabra a adivinar, dando el numero de letras, numeros y categoria. Si el jugador adivinador sugiere una letra o numero que aparece en la palabra, el otro jugador la escribe en todas sus posiciones correctas. Si la letra o el numero sugerido no ocurre en la palabra, el otro jugador saca un elemento de la figura de hombre palo ahorcado como una marca de conteo. El juego termina cuando:
+Un ejemplo de juego en progreso.
+El jugador adivinador completa la palabra, o adivina la palabra completa correctamente
+El otro jugador completa el diagrama:
+Este diagrama es, de hecho, diseñado para parecerse a un hombre ahorcado. A pesar de que han surgido debates sobre el gusto cuestionable de esta imagen,1​ todavia esta en uso actualmente (2018). Una alternativa comun para maestros es dibujar un arbol de manzanas con diez manzanas, borrar o tachar las manzanas a medida que se agotan las adivinanzas.
+La naturaleza exacta de del diagrama difiere; algunos jugadores dibujan la horca antes de jugar y dibujan las partes del cuerpo del hombre (tradicionalmente la cabeza, luego el torso, luego los brazos y las piernas de uno en uno). Algunos jugadores comienzan con sin esquema en absoluto, y elaboran los elementos individuales de la horca como parte del juego, dandole al jugador mas posibilidades efectivas medida de adivinar. Tambien pueden presentar variaciones los detalles en el hombre, lo que afecta el numero de posibilidades. Algunos jugadores incluyen una cara en la cabeza, ya sea toda a la vez o una caracteristica a la vez.
+A veces se aplican algunas modificaciones al juego para aumentar el nivel de dificultad, tales como la limitacion de sobre las consonantes de alta frecuencia y las vocales. Otra alternativa es dar la definicion de la palabra. Esto puede ser utilizado para facilitar el aprendizaje de una lengua extranjera.
+Historia
+Los origenes de El Ahorcado son oscuros, pero al parecer surgio en la epoca victoriana," dice Tony Augarde,[cita requerida] autor de La Guia de Oxford de Juegos de palabras" (Oxford University Press).
+El juego es mencionado en 1894 en "The Traditional Games of England, Scotland, and Ireland - Vol I" (Juegos tradicionales de Inglaterra, Escocia e Irlanda)2​ de Alice Bertha Gomme bajo el nombre "Birds, Beasts, and Fishes" (Pajaros, Bestias y Peces). Las reglas eran simples: un jugador anota la primera y ultima letra de una palabra de un animal, y el otro jugador adivina las letras en el medio.
+En otras fuentes[¿donde?] el juego se llama "Horca", "El Juego de Hangin'", o "Suspension".
+El Ahorcado ha aparecido en el sistema de videojuegos Speak & Spell de 1978 bajo el nombre de "Palabra Misterio" y en la actualidad (2014), a veces, se juega en los foros de Internet.
+Estrategia
+En el idioma español, las doce letras que aparecen mas frecuentemente son, en orden descendente: e-a-o-s-r-n-i-d-l-c-t-u. Esta y otras listas de frecuencia de letra son utilizadas por el jugador adivinador para aumentar las probabilidades cuando sea su turno de adivinar. Por otra parte, las mismas listas pueden ser utilizadas por el pionero puzzle para difuminar su oponente eligiendo una palabra que evita deliberadamente letras comunes (por ejemplo, ritmo o zephyr) o uno que contiene letras raras (por ejemplo, jazz).
+Otra estrategia comun es adivinar las vocales primero, ya que el español solo cuenta con cinco vocales (a, e, i, o, u), y casi toda palabra tiene al menos una. Ademas es estadisticamente la mejor estrategia inicial debido a que el 44%3​ de las letras usadas en el idioma español son vocales.
+Derivaciones
+La demostracion de juego de la Rueda de la fortuna se basa en el ahorcado, pero con la adicion de una rueda estilo de la ruleta y se otorga dinero en efectivo por cada letra.
+Ejemplo de juego
+El siguiente ejemplo de juego ilustra un jugador tratando de adivinar la palabra Ahorcado utilizando una estrategia basada unicamente en la frecuencia de letra.
+0	
+Palabra:	_ _ _ _ _ _ _ _
+Adivinar:	E
+Letras erradas:	
+1	
+Palabra:	_ _ _ _ _ _ _ _
+Adivinar:	A
+Letras erradas:	e
+2	
+Palabra:	A _ _ _ _ A _ _
+Adivinar:	O
+Letras erradas:	e
+3	
+Palabra:	A _ O _ _ A _ O
+Adivinar:	S
+Letras erradas:	e
+4	
+Palabra:	A _ O _ _ A _ O
+Adivinar:	R
+Letras erradas:	e,s
+5
+Palabra:	A _ O R _ A _ O
+Adivinar:	N
+Letras erradas:	e,s
+6
+Palabra:	A _ O R _ A _ O
+Adivinar:	H
+Letras erradas:	e,s,n
+7
+Palabra:	A H O R _ A _ O
+Adivinar:	D
+Letras erradas:	e,s,n
+8	
+Palabra:	A H O R _ A D O
+Adivinar:	L
+Letras erradas:	e,s,n
+9	
+Palabra:	A H O R _ A D O
+Adivinar:	C
+Letras erradas:	e,s,n,l
+10
+Palabra:	A H O R C A D O
+Adivinar:	
+Letras erradas:	e,s,n,l
+El adivinador gana, la respuesta, como descubrio el adivinador, era AHORCADO.
